@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Page on Theme #3 Prototype</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home Page on Theme #3 Prototype</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 21:23:18 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Objects Page</title>
+      <link>https://example.org/objects/</link>
+      <pubDate>Fri, 24 Nov 2023 21:56:24 +0000</pubDate>
+      <guid>https://example.org/objects/</guid>
+      <description>Prototype Game Objects Within my game, there are a lot of objects, I will tell you of the three main objects below!
+The Car! The Car Game Object is the most important part of the prototype. It is the main part of the game, and the player controls the Car object to traverse the track!
+Coins, Coins, Coins! The player has to collect the above coins so that they can get the highest score in the game!</description>
+    </item>
+  </channel>
+</rss>
